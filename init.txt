@@ -1,3 +1,0 @@
-bomCode: 81HXCTO1WW
-divisionCode: 06
-selectValues: [{"characteristicCode":"232310","characteristicValueCode":"8","canDel":1,"sort":1},{"characteristicCode":"32351","characteristicValueCode":"1","canDel":1,"sort":2},{"characteristicCode":"47486","characteristicValueCode":"2","canDel":1,"sort":3},{"characteristicCode":"1297142","characteristicValueCode":"2","canDel":1,"sort":4},{"characteristicCode":"32350","characteristicValueCode":"3","canDel":1,"sort":5},{"characteristicCode":"32365","characteristicValueCode":"1","canDel":1,"sort":6},{"characteristicCode":"82993","characteristicValueCode":"1","canDel":1,"sort":7},{"characteristicCode":"82996","characteristicValueCode":"1","canDel":1,"sort":8}]
